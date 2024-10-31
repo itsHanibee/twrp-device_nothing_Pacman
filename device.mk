@@ -80,6 +80,10 @@ PRODUCT_PACKAGES_DEBUG += \
 # Dynamic
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
+# DRM
+PRODUCT_PACKAGES += \
+    android.hardware.drm@1.4
+
 # MTK plpath utils
 PRODUCT_PACKAGES += \
     mtk_plpath_utils \
