@@ -1,7 +1,7 @@
 DEVICE_PATH := device/nothing/Pacman
 
 # API
-PRODUCT_SHIPPING_API_LEVEL := 33
+PRODUCT_SHIPPING_API_LEVEL := 32
 
 # A/B
 AB_OTA_UPDATER := true
