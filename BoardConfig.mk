@@ -74,7 +74,6 @@ BOARD_ALPS_DYNAMIC_PARTITIONS_PARTITION_LIST := \
     product \
     vendor_dlkm \
     system_ext \
-    system_dlkm \
     vendor \
     odm
 BOARD_ALPS_DYNAMIC_PARTITIONS_SIZE := 9122611200 
