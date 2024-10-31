@@ -6,39 +6,12 @@ PRODUCT_SHIPPING_API_LEVEL := 32
 # A/B
 AB_OTA_UPDATER := true
 AB_OTA_PARTITIONS += \
-    apusys \
-    audio_dsp \
     boot \
-    ccu \
-    dpm \
-    dtbo \
-    gpueb \
-    gz \
-    lk \
-    logo \
-    mcf_ota \
-    mcupm \
-    md1img \
-    mvpu_algo \
-    odm \
-    odm_dlkm \
-    pi_img \
-    preloader_raw \
     product \
-    scp \
-    spmfw \
-    sspm \
     system \
     system_ext \
-    tee \
-    vbmeta \
-    vbmeta_system \
-    vbmeta_vendor \
-    vcp \
-    vendor \
-    vendor_boot \
-    vendor_dlkm \
-
+    vendor 
+  
 PRODUCT_PACKAGES += \
     update_engine \
     update_engine_sideload \
