@@ -130,10 +130,6 @@ BOARD_INCLUDE_RECOVERY_RAMDISK_IN_VENDOR_BOOT := true
 # Verified Boot
 BOARD_AVB_ENABLE := true
 
-# Init
-TARGET_INIT_VENDOR_LIB := libinit_Pacman
-TARGET_RECOVERY_DEVICE_MODULES := libinit_Pacman
-
 # TWRP Configurations
 TW_DEVICE_VERSION := Nothing Phone 2A
 TW_EXTRA_LANGUAGES := true
