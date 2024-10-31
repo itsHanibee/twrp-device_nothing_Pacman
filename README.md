@@ -3,7 +3,7 @@
 =========================================
 
 The Nothing Phone 2A (codenamed _"Pacman"_) is a mid-range smartphone from Nothing released in early 2024.
-![Nothing Phone 2A](https://i.gadgets360cdn.com/products/large/Phone-2a-DB-709x800-1709698950.jpg?downsize=*:420&output-quality=80)
+![Nothing Phone 2A](https://nothing.tech/cdn/shop/products/black-1.png?v=1709369796)
 
 ## Device specifications
 
