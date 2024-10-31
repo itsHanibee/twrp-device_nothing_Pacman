@@ -93,3 +93,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     mtk_plpath_utils \
     mtk_plpath_utils.recovery
+
+# HIDL Service
+PRODUCT_ENFORCE_VINTF_MANIFEST := true
