@@ -81,10 +81,6 @@ PRODUCT_ENFORCE_VINTF_MANIFEST := true
 PRODUCT_PACKAGES += \
     init.recovery.mt6886.rc
 
-# Filesystem table
-PRODUCT_PACKAGES += \
-    fstab.mt6886 \
-
 # fastbootd
 PRODUCT_PACKAGES += \
     fastbootd
