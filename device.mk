@@ -84,6 +84,11 @@ PRODUCT_USE_DYNAMIC_PARTITIONS := true
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.4
 
+# Health
+PRODUCT_PACKAGES += \
+    android.hardware.health@2.1-impl \
+    android.hardware.health@2.1-service
+
 # MTK plpath utils
 PRODUCT_PACKAGES += \
     mtk_plpath_utils \
